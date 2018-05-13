@@ -168,6 +168,6 @@ h3:hover:after {
   z-index: 10;
   position: absolute;
   left: 45%;
-  bottom: -72%;
+  bottom: -68%;
   transform: rotate(45deg);
 }
