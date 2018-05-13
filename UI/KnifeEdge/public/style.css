@@ -16,6 +16,7 @@
   transform: skew(0deg, 9deg) translateY(50px);
   padding: 20rem 5rem;
   width: 50%;
+  text-align: justify;
 }
 
 h2 {
@@ -70,19 +71,22 @@ h2:hover:after {
 
 .middle {
   background: chocolate;
-  height: 700px;
-  margin-top: -450px;
-  text-align: right;
+  height: 650px;
+  margin-top: -453px;
+  text-align: left;
 }
 
 .middle h2 {
   width: 370px;
   position: relative;
-  left: 350px;
+  left: 0;
 }
 
 .middle .txtWrapper {
-  padding: 20rem 5rem;
+  padding: 18rem 5rem;
+  width: 50%;
+  margin-top: 3rem;
+  text-align: justify;
 }
 
 .middle button {
