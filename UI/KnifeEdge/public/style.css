@@ -14,7 +14,7 @@
 
 .upper .txtWrapper {
   transform: skew(0deg, 9deg) translateY(50px);
-  padding: 20rem 5rem;
+  padding: 24rem 5rem;
   width: 50%;
   text-align: justify;
 }
